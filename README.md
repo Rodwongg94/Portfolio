@@ -1,2 +1,3 @@
-# Portfolio
-Rodrigo Wong BI portfolio
+# Iowa Liquor Sales Analysis
+
+##Introduction
